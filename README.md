@@ -20,7 +20,7 @@ NewsGrid features three main pages: Home, About, and Articles, providing a curat
 
 ## 🌐 Live Site
 
-Experience NewsGrid live at [NewsGrid Website](https://newsgrid-system.netlify.app/).
+Experience NewsGrid live at [NewsGrid Website](https://newsgrid-website-2193.netlify.app/).
 
 ## 🖼️ Screenshots
 
